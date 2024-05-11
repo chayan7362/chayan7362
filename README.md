@@ -13,10 +13,13 @@
 
 - 🌱 I’m currently learning **Java FullStack Development**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
-- 💬 Ask me about anything.
+- 💬 Ask me about **Core Java, JDBC, Servlet, JSP, SQL, Web Technologies**
 - 📫 How to reach me: https://www.linkedin.com/in/chayan-maiti.
 - 😄 Pronouns: Collection.
 - ⚡ Fun fact: Plants came before seeds.
+
+- 
+- ---
 
 <p float="left">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=chayan7362&theme=default&hide_border=false" height="200" width="400"/>
