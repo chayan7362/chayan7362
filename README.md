@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chayan Maiti 🧑‍💻</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <!--
 **chayan7362/chayan7362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -20,13 +20,13 @@
 
 - 
 - ---
-
-<p float="left">
+<p>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=chayan7362&theme=default&hide_border=false" height="200" width="400"/>
     <img align="left" src="https://leetcard.jacoblin.cool/chayan_maiti?theme=light&font=Karma&ext=contest" height="200" width="400"/>
 </p>
 
 <p float="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api/?username=chayan7362&theme=default&show_icons=true&count_private=true&hide_border=true" height="200" width="400"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan7362&show_icons=true&hide_border=true&layout=compact&langs_count=10" height="200" width="400" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chayan7362&show_icons=true&locale=en&layout=compact&langs_count=10" height="200" width="400" />
+    
 </p>
